@@ -1,2 +1,2 @@
 # starkswap-public
-starkswap open-source code
+All of Starkswap's open-source code will be pushed to this repo.
